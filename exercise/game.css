@@ -1,0 +1,27 @@
+body {
+      font:30px 宋体;
+      margin: 0;
+    color:black;
+    text-align: center;
+    background: url("images/bloodborne.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#container {
+    margin: 0 auto;
+    width: 1800px;
+}
+#main {margin-bottom: 8px}
+#content {
+    width: 900px;
+    height: 1800px;
+    position: absolute;
+    left: 450px;
+    top: 0px;
+}
+.clearfloat {
+    clear: both;
+    height: 0;
+    font-size: 1px;
+    line-height: 0px;
+}
